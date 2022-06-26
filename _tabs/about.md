@@ -3,12 +3,13 @@ title: 关于
 icon: fas fa-info
 order: 4
 ---
-- ### Hi there 👋, I'm Tom!
+### there 👋, I'm ShenQi!
 
-  - 🏫  _BSc in Computer Science_.
-  - 💻  I work on C / C++ / Java / Objective-C & Swift / Python / Markdown.
-  - 🧠  I used to take internship as an iOS developer at Bytedance Techonology.
-  - 🏖️  I will go to Shenzhen and work as a back-end engineer at Tencent.
+- 🏫  *BSc in Computer Science*.
+- 💻  I work on C++ / Java / algorithm / Markdown.
+- 🏖️  I wish I could live the life I want
+- 🧠  Believe in the power of accumulation
 
-公众号: 汤姆还在写代码
+[CSDN：沈七_](https://blog.csdn.net/m0_66139206?type=bbs)
+
 
